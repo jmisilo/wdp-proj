@@ -1,0 +1,6 @@
+path: ../data_proj-wdp 
+train: images 
+val: images 
+
+nc: 6  
+names: [ 'bicycle', 'car', 'motorcycle', 'bus', 'train', 'truck' ]
